@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=edsion1107&theme=panda&show_icons=true#gh-dark-mode-only)](https://github.com/edsion1107?tab=overview#gh-dark-mode-only)
-[![GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=edsion1107&theme=panda&show_icons=true#gh-light-mode-only)](https://github.com/edsion1107?tab=overview#gh-light-mode-only)
+[![GitHub Stats‑Dark](https://github-readme-stats.vercel.app/api?username=edsion1107&theme=panda&show_icons=true#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=edsion1107&theme=panda&show_icons=true#gh-dark-mode-only)
+[![GitHub Stats‑Light](https://github-readme-stats.vercel.app/api?username=edsion1107&theme=panda&show_icons=true#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=edsion1107&theme=panda&show_icons=true#gh-light-mode-only)
 
-[![GitHub langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=edsion1107&theme=panda&langs_count=8&layout=compact#gh-dark-mode-only)](https://github.com/edsion1107?tab=languages#gh-dark-mode-only)
-[![GitHub langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=edsion1107&theme=panda&langs_count=8&layout=compact#gh-light-mode-only)](https://github.com/edsion1107?tab=languages#gh-light-mode-only)
-
+[![GitHub langs‑Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=edsion1107&theme=panda&langs_count=8&layout=compact&hide=CSS,Stylus,Dockerfile,HTML#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=edsion1107&theme=panda&langs_count=8&layout=compact&hide=CSS,Stylus,Dockerfile,HTML#gh-dark-mode-only)
+[![GitHub langs‑Light](https://github-readme-stats.vercel.app/api/top-langs/?username=edsion1107&theme=panda&langs_count=8&layout=compact&hide=CSS,Stylus,Dockerfile,HTML#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=edsion1107&theme=panda&langs_count=8&layout=compact&hide=CSS,Stylus,Dockerfile,HTML#gh-light-mode-only)
 
 本人是一名测试开发工程师，拥有15年丰富的从业经验（自2010年7月起）。曾先后就职于腾讯和OPPO，专注于Android、iOS、微信小程序以及后台接口的测试开发工作，并熟练使用Python和Kotlin等编程语言。目前处于暂时休整状态，正在规划下一步的职业发展。工作之余，爱好公路车骑行和旅行。
 
